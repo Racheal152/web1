@@ -13,10 +13,10 @@ import user5 from "../assets/profile-pictures/user5.jpg";
 import user6 from "../assets/profile-pictures/user6.jpg";
 
 export const navItems = [
-  { label: "Features", href: "#" },
-  { label: "Workflow", href: "#" },
-  { label: "Pricing", href: "#" },
-  { label: "Testimonials", href: "#" },
+  { label: "Features", href: "#features" },
+  { label: "Workflow", href: "#workflow" },
+  { label: "Pricing", href: "#pricing" },
+  { label: "Testimonials", href: "#testimonials" },
 ];
 
 export const testimonials = [
@@ -173,6 +173,6 @@ export const communityLinks = [
   { href: "#", text: "Events" },
   { href: "#", text: "Meetups" },
   { href: "#", text: "Conferences" },
-  { href: "#", text: "Hackathons" },
-  { href: "#", text: "Jobs" },
+  { href: "https://devpost.com/hackathons", text: "Hackathons" },
+  { href: "https://www.fuzu.com/kenya/job/nairobi", text: "Jobs" },
 ];
